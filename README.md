@@ -3,7 +3,7 @@ This include all activities and project details I followed during my internship
 
 #Service Letter#
 
-[!image alt](https://github.com/Senura-Peiris/Frontend-developer-Intern-Techwox-Solutions-/blob/main/1768995234614-2a0ee717-cd40-482b-8e3f-193215684ab4_1.jpg)
+![image alt](https://github.com/Senura-Peiris/Frontend-developer-Intern-Techwox-Solutions-/blob/main/1768995234614-2a0ee717-cd40-482b-8e3f-193215684ab4_1.jpg)
 
 My Service Letter :  https://github.com/Senura-Peiris/Frontend-developer-Intern-Techwox-Solutions-/blob/main/Service%20Letter.pdf
 All the activities that I completed during my internship is in this Daily Diary Book That provided by my campus.  
