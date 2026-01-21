@@ -1,4 +1,4 @@
-# Frontend-developer-Intern-Techwox-Solutions-
+# Frontend-developer-Intern-Techwox-Solutions- ![image alt]()
 I successfully completed my six-monthsinternship as a Front-end web developer at Techwox Solutions from 07/04/2025 to 07/10/2025.
 
 During my internship, I primarily worked on front-end web development using React.js, focusing on designing and building interactive and user-friendly web pages. I was responsible for creating responsive layouts, implementing animations, carousels, and light/dark mode features to enhance the overall user experience. In addition, I used Git and GitHub for version control, which helped me manage code efficiently and collaborate smoothly with team members. I also participated in project planning and task tracking using Jira, ensuring that all projects, including the Company Website and Chatme (Real-Time Chat Application), were completed on time and met quality standards.
